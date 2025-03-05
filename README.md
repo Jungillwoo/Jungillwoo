@@ -1,16 +1,19 @@
 ### 🚀 Tech Stack  
+
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 </div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis-5C2D91?style=flat-square&logo=mybatis&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-</div> 
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
@@ -19,10 +22,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" />
@@ -31,38 +36,17 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </div>
 
+---
 
 <div align="center">
-
-<table style="width: 80%; border-collapse: collapse; background-color: #0D1117; border-radius: 10px; border: 1px solid #30363D;">
-<tr>
-
-<!-- 왼쪽 (자주 사용하는 언어) -->
-<td align="center" width="50%" style="border-right: 1px solid #30363D; padding: 20px;">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="100%" />
-
-</td>
-
-<!-- 오른쪽 (현재 공부 중인 언어) -->
-<td align="center" width="50%" style="padding: 20px;">
-
-### 📚 Currently Studying  
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-
-</td>
-
-</tr>
-</table>
-
+  <h3>📊 Most Used Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="50%" />
 </div>
 
+---
 
-
-
-
-
-
-
-
+<div align="center">
+  <h3>📚 Currently Studying</h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</div>
