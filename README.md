@@ -39,7 +39,7 @@
 <div style="display: inline-block; vertical-align: top; width: 45%; text-align: center;">
 
 ### 📜 Most Used Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="40%" />
 
 </div>
 
