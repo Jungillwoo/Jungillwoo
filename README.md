@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=Welcome to My GitHub Profile&fontSize=40)
+
+---
+
 ### 🚀 Tech Stack  
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
@@ -31,6 +34,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </div>
+
+---
+
 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" />
