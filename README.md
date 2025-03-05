@@ -41,6 +41,7 @@
 </td>
 <td align="center" width="50%">
 ### 📚 Currently Studying  
+  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </td>
