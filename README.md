@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=2ruu%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=2ruu&fontSize=90)
 
 ### 🚀 Tech Stack  
 <div align="center">
