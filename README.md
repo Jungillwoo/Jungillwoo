@@ -1,10 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=capsule%20render&fontSize=90)
-# 안녕하세요! 👋  
-**이름:** 정일우  
-**직무:** 풀스택 개발자  
-**관심 분야:** Java, Spring, MyBatis, 데이터베이스, Frontend  
-
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=2ruu%20render&fontSize=90)
 
 ### 🚀 Tech Stack  
 <div align="center">
