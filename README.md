@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis-5C2D91?style=flat-square&logo=mybatis&logoColor=white" />
