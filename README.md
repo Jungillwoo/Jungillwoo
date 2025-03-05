@@ -14,13 +14,17 @@
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis-5C2D91?style=flat-square&logo=mybatis&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-  
   <br> <!-- 줄바꿈 -->
-  
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <br> <!-- 줄바꿈 -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-F79400?style=flat-square&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
 </div>
 
@@ -32,10 +36,3 @@
 </div>
 
 ---
-
-### 📬 Contact Me  
-<div align="center">
-  <a href="mailto:zuirune@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</div>
