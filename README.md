@@ -39,13 +39,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </div>
 
----
-
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
 
   <!-- 왼쪽: Most Used Languages -->
   <div align="center">
-    <h3>📊 Most Used Languages</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="300px" />
   </div>
 
@@ -58,5 +55,4 @@
 
 </div>
 
----
 
