@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40)
 
 ---
-🚀 Tech Stack  
+### 🚀 Tech Stack  
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -35,7 +35,7 @@
 </div>
 
 ---
-📊 GitHub Stats  
+### 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" />
 </div>
