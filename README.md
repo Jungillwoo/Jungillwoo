@@ -36,18 +36,18 @@
 
 <div align="center">
 
-<table style="width: 80%; border-collapse: collapse; background-color: #0D1117; border-radius: 10px;">
+<table style="width: 100%; border-collapse: collapse;>
 <tr>
 
 <!-- 왼쪽 (자주 사용하는 언어) -->
-<td align="center" width="50%" style="border: none; padding: 20px;">
+<td align="center" width="50%" style="border: none;">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="100%" />
 
 </td>
 
 <!-- 오른쪽 (현재 공부 중인 언어) -->
-<td align="center" width="50%" style="border: none; padding: 20px;">
+<td align="center" width="50%" style="border: none;">
 
 ### 📚 Currently Studying  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
