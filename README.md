@@ -31,14 +31,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </div>
 
-## 📌 Tech Overview  
-
 <div align="center">
 
 <!-- 왼쪽 (자주 사용하는 언어) -->
 <div style="display: inline-block; vertical-align: top; width: 45%; text-align: center;">
 
-### 📜 Most Used Languages  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="40%" />
 
 </div>
@@ -47,11 +44,8 @@
 <div style="display: inline-block; vertical-align: top; width: 45%; text-align: center;">
 
 ### 📚 Currently Studying  
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 
 </div>
 
