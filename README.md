@@ -33,7 +33,18 @@
 
 <div align="center">
 
+<div style="display: flex; justify-content: center; gap: 50px;">
+
+<!-- 왼쪽 (자주 사용하는 언어) -->
+<div style="text-align: center;">
+  
+### 📜 Most Used Languages  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" />
+
+</div>
+
+<!-- 오른쪽 (현재 공부 중인 언어) -->
+<div style="text-align: center;">
 
 ### 📚 Currently Studying  
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -43,6 +54,11 @@
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 
 </div>
+
+</div>
+
+</div>
+
 
 
 
