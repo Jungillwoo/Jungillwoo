@@ -31,28 +31,25 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </div>
 
---
-
 
 <div align="center">
 
-<table style="width: 100%; border-collapse: collapse;>
+<table style="width: 80%; border-collapse: collapse; background-color: #0D1117; border-radius: 10px; border: 1px solid #30363D;">
 <tr>
 
 <!-- 왼쪽 (자주 사용하는 언어) -->
-<td align="center" width="50%" style="border: none;">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="50%" />
+<td align="center" width="50%" style="border-right: 1px solid #30363D; padding: 20px;">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="100%" />
 
 </td>
 
 <!-- 오른쪽 (현재 공부 중인 언어) -->
-<td align="center" width="50%" style="border: none;">
+<td align="center" width="50%" style="padding: 20px;">
 
 ### 📚 Currently Studying  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-
 
 </td>
 
@@ -60,6 +57,7 @@
 </table>
 
 </div>
+
 
 
 
