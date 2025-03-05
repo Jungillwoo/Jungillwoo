@@ -42,7 +42,7 @@
 <!-- 왼쪽 (자주 사용하는 언어) -->
 <td align="center" width="50%" style="border: none;">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="50%" />
 
 </td>
 
