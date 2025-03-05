@@ -35,7 +35,29 @@
 </div>
 
 ---
-### 📊 GitHub Stats  
+## 📌 Tech Overview  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" />
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### ⌨️ Most Used Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" />
+
+</td>
+<td align="center" width="50%">
+
+### 📚 Currently Studying  
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
 </div>
