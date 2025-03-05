@@ -31,27 +31,25 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-<table style="border-collapse: collapse; border: none; width: 90%;">
-<tr>
-<td align="center" width="50%" style="border: none;">
-
+<!-- 왼쪽 (자주 사용하는 언어) -->
+<div style="width: 45%;">
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" />
 
-</td>
-<td align="center" width="50%" style="border: none;">
+</div>
+
+<!-- 오른쪽 (현재 공부 중인 언어) -->
+<div style="width: 45%;">
 
 ### 📚 Currently Studying  
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 
-</td>
-</tr>
-</table>
 
 </div>
+
+</div>
+
 
