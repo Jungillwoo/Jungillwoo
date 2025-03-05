@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=높이&section=header&text=텍스트&fontSize=폰트크기)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=높이&section=header&text=&fontSize=폰트크기)
 
 # 안녕하세요! 👋  
 **이름:** 정일우
