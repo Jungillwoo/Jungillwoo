@@ -38,15 +38,22 @@
 
 ---
 
-<div align="center">
-  <h3>📊 Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="50%" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+
+  <!-- 왼쪽: Most Used Languages -->
+  <div align="center">
+    <h3>📊 Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="300px" />
+  </div>
+
+  <!-- 오른쪽: Currently Studying -->
+  <div align="center">
+    <h3>📚 Currently Studying</h3>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  </div>
+
 </div>
 
 ---
 
-<div align="center">
-  <h3>📚 Currently Studying</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-</div>
