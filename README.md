@@ -35,11 +35,9 @@
 </div>
 
 ---
-## 📌 Tech Overview  
-
 <div align="center">
 
-<table>
+<table style="border: none; width: 90%;">
 <tr>
 <td align="center" width="50%">
 
