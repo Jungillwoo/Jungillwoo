@@ -31,25 +31,23 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </div>
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="100%" />
 
-<!-- 왼쪽 (자주 사용하는 언어) -->
-<div style="display: inline-block; vertical-align: top; width: 45%; text-align: center;">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="40%" />
-
-</div>
-
-<!-- 오른쪽 (현재 공부 중인 언어) -->
-<div style="display: inline-block; vertical-align: top; width: 45%; text-align: center;">
+</td>
+<td align="center" width="50%">
 
 ### 📚 Currently Studying  
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 
-</div>
+</td>
+</tr>
+</table>
 
-</div>
 
 
 
