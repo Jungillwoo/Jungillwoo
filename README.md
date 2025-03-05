@@ -37,17 +37,12 @@
 <table style="border: none; width: 90%;">
 <tr>
 <td align="center" width="50%">
-
-### ⌨️ Most Used Languages  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" />
-
 </td>
 <td align="center" width="50%">
-
 ### 📚 Currently Studying  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-
 </td>
 </tr>
 </table>
