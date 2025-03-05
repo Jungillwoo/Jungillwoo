@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=capsule%20render&fontSize=90)
 # 안녕하세요! 👋  
 **이름:** 정일우  
 **직무:** 풀스택 개발자  
