@@ -31,16 +31,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </div>
 
----
-## 📌 Tech Overview  
-
 <div align="center">
 
 <table style="border-collapse: collapse; border: none; width: 90%;">
 <tr>
 <td align="center" width="50%" style="border: none;">
 
-### 📜 Most Used Languages  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" />
 
 </td>
