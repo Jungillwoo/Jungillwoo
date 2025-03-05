@@ -1,4 +1,8 @@
-# 👋 Hello, I'm Jungillwoo!
+# 안녕하세요! 👋  
+**이름:** 정일우
+**직무:** 풀스택 개발자
+**관심 분야:** Java, Spring, MyBatis, 데이터베이스  
+
 
 ### 🚀 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -9,4 +13,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jungillwoo&show_icons=true&theme=tokyonight)
 
 ### 📬 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zuirune@gmail.com)
