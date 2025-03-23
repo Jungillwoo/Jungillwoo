@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=90)
 <div align="center">
   
-  ### 😊 Tech Stack  
+  ### 😊 Tech Stack 
 </div>
 
 <div align="center">
