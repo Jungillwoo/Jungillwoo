@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/AWS%20EC2-F79400?style=flat-square&logo=amazon-ec2&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
 ---
@@ -51,9 +52,8 @@
 
   <!-- 오른쪽: Currently Studying -->
   <div align="center">
-    <h3>📚 Currently Studying</h3>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+    <h3>📚 현재 진행중인 프로젝트</h3>
+    한국솔루션관리 홈페이지 리뉴얼
   </div>
 
 </div>
