@@ -47,7 +47,7 @@
 
   <!-- 왼쪽: Most Used Languages -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungillwoo&layout=compact&theme=tokyonight" width="300px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungilwoo&layout=compact&theme=tokyonight" width="300px" />
   </div>
 
   <!-- 오른쪽: Currently Studying -->
