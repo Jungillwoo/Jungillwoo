@@ -50,12 +50,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungilwoo&layout=compact&theme=tokyonight" width="300px" />
   </div>
 
-  <!-- 오른쪽: Currently Studying -->
-  <div align="center">
-    <h3>📚 현재 진행중인 프로젝트</h3>
-    한국솔루션관리 홈페이지 리뉴얼
-  </div>
-
 </div>
 
 
